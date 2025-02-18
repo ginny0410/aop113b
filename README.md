@@ -4,4 +4,4 @@
 ## 01 overview
 
 - EX01-01加法器
-- EX01-02BMII計算
+- EX01-02BMI計算
